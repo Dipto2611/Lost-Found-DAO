@@ -74,3 +74,7 @@ Our vision is to create a global, decentralized network that transforms how lost
 - Development of universal lost item recovery protocols
 
 - smart contract:0xAf7B534982168A8236B099e5cf07F6d56fA0ca24
+
+
+
+<img width="1916" height="907" alt="image" src="https://github.com/user-attachments/assets/c2e46a76-0cd9-4aa4-a94b-9ef3db6f2128" />
